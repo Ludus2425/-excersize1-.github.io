@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color:whitesmoke;
+}
+hr{
+    border: none;
+    border-top: 4px solid black;
+
+}
+h2{
+    color: #1f8a4c;
+}
+h3{
+    color:#0b66d1;
+}
